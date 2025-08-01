@@ -58,9 +58,3 @@ A pirâmide é dividida em **6 níveis**, do mais fácil de mudar (base) ao mais
 | IoC   | 🕵️‍♂️ Indicador de Comprometimento         |
 | TTPs  | ⚔️ Táticas, Técnicas e Procedimentos       |
 
----
-
-## 📸 GIF ilustrativo da pirâmide:
-
-
-![Pirâmide da Dor GIF](https://miro.medium.com/v2/resize:fit:1200/format:webp/1*iggbZsGzWzDfB2h6hD7ZRA.gif)
