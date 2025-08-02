@@ -1,4 +1,4 @@
-## 🌐 1. O que são IP Addresses (Endereços IP)?
+## 🌐O que são IP Addresses (Endereços IP)?
 
 Um endereço **IP (Internet Protocol)** é como um “endereço de casa” usado para identificar um dispositivo na internet ou em uma rede local.
 
@@ -11,7 +11,7 @@ Um endereço **IP (Internet Protocol)** é como um “endereço de casa” usado
 `192.168.100.50`
 >>(obs: esse exemplo é IP privado, mas em ataques reais geralmente são IPs públicos)
 ---
-## 🔐 2. Uso de IPs em defesa
+## 🔐Uso de IPs em defesa
 
 Quando um analista identifica um IP malicioso:
 - **✅ Pode ser bloqueado no firewall, IDS/IPS ou DNS.**
@@ -20,7 +20,7 @@ Quando um analista identifica um IP malicioso:
 Essa resposta **imediata** é uma grande vantagem.
 ---
 
-## 😈 3. Por que o IP é fraco como defesa isolada?
+## 😈Por que o IP é fraco como defesa isolada?
 Um atacante pode **trocar de IP facilmente**. Ele pode:
 - Usar **VPNs ou proxies** (serviços pagos ou gratuitos).
 - Contratar **infraestrutura em nuvem** (ex: AWS, DigitalOcean, etc.).
