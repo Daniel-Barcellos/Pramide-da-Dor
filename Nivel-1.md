@@ -28,6 +28,7 @@ Os hashes são extremamente **sensíveis** a mudanças. Isso significa que se um
 - **Ofuscar o código-fonte.**
 - **Inserir bytes irrelevantes.**
 - **Alterar o nome das váriaveis ou strings.**
+
 Mesmo que o comportamento malicioso permaneça **exatamente o mesmo**, o hash será **diferente**, enganando sistemas que confiam apenas no hash para identificar ameaças.
 
 
