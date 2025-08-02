@@ -3,7 +3,7 @@
 Um **valor de hash** é uma sequência de caracteres gerada a partir de **um algoritmo matemático** que processa os dados de entrada
 (por exemplo, um arquivo). Esse valor serve como uma impressão digital única daquele arquivo.
 
->> 🧠Exemplo
+>🧠Exemplo
 - Arquivo: Malware.exe
 - Algoritmo Usado: SHA-256
 - Hash Gerado: aef1239e1c3b09c5f6a0b2d3e4f9a1b8c0d1e2f3...
