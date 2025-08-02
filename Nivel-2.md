@@ -28,8 +28,8 @@ Um atacante pode **trocar de IP facilmente**. Ele pode:
 - Registrar **domínios com IPs dinâmicos**, trocando o servidor por trás com frequência.
 Essas técnicas tornam a **detecção baseada apenas em IP muito frágil** e fácil de evadir.
 ---
-| **Características** | **Explicação** |
-| ✅ Útil para | Resposta rápida (bloqueio imediato), rastreamento de conexões maliciosas. |
-| ❌ Não confiável para | Detecção duradoura — IPs podem mudar rapidamente. |
-| Dificuldade para o atacante mudar | Fácil — troca por outro IP com VPN, proxy ou novo servidor. |
-
+| **Características**                | **Explicação**                                                                 |
+|-----------------------------------|--------------------------------------------------------------------------------|
+| ✅ Útil para                       | Resposta rápida (bloqueio imediato), rastreamento de conexões maliciosas.     |
+| ❌ Não confiável para              | Detecção duradoura — IPs podem mudar rapidamente.                              |
+| 🛠️ Dificuldade para o atacante mudar | Fácil — troca por outro IP com VPN, proxy ou novo servidor.                   |
