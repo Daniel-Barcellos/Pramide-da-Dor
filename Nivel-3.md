@@ -18,8 +18,10 @@ Enganar usuários com **typosquatting** (ex: micorsoft-update.com em vez de micr
 ---
 
 ## 🔍 Por que domínios são úteis na detecção?
+
 Permitem análise comportamental: você pode ver se há padrões repetitivos em domínios usados.
 Permitem detecção com regras: como uso de algoritmos DGA (Domain Generation Algorithm), nomes muito longos, ou parecidos com marcas (typosquatting).
+
 ---
 
 ## 😈 Limitações dos domínios como IoCs
